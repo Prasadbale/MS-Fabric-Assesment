@@ -74,5 +74,35 @@ The current **disparate data environment** limits timely analytics, impacting:
 
 ---
 
-## 📜 License
-This project is for demonstration and educational purposes. Adapt for real-world use as needed.
+This repository contains the Microsoft Fabric data architecture implementation for Fabrikam Manufacturing's analytics solution.
+
+## Repository Files
+
+### 📋 **Architecture Implementation Overview.pdf**
+Comprehensive 2-page technical writeup explaining:
+- Solution architecture and design decisions
+- Business impact and value delivered
+- Technical implementation details
+- Key capabilities and features
+
+### 📊 **Architecture.pdf** 
+Visual architecture diagram showing:
+- Data flow from multiple sources (ERP, MES, IoT, CRM)
+- Bronze-Silver-Gold lakehouse layers
+- Processing components (Notebooks, Event Streams, KQL Scripts)
+- Integration points and data transformations
+
+### 📦 **Fabrikam Manufacturing - Post Assessment Case Study.zip**
+Complete case study package containing:
+- Original problem statement and business requirements
+- Sample datasets for implementation (CSV, JSON, TXT formats)
+- Expected outcomes and success criteria
+- Implementation guidelines and specifications
+
+### 📸 **Implementation_Screenshots/**
+Folder containing visual proof of implementation:
+- Microsoft Fabric workspace configurations
+- Data pipeline setup and execution
+- Dashboard and reporting interfaces
+- Data quality monitoring views
+- Real-time analytics demonstrations
